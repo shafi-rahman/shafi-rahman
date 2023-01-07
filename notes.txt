@@ -1,0 +1,2 @@
+-> in the theme.js file find "contextmenu" line no  158 this function is use to stop right click f12 cont+use 
+

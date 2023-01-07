@@ -1,0 +1,67 @@
+{
+    "user": { 
+        "id"                    : "2281",
+        "email"                 : "rob.eberhardt@gmail.com",
+        "fname"                 : "Rob",
+        "lname"                 : "Eberhardt",
+        "username"              : "robeberhardt",
+        "password"              : "thx1138",
+        "signedup"              : "true",
+        "appDL"                 : "false",
+        "MostMedicine"          : "PCm | DDO | LIV5",
+        "MostMeals"             : "Non-veg(fish)",
+        "TopDisease"            : "Ischemic heart disease",
+        "HospitalVisits"        : "5-8 times in 10 days"
+
+    },
+    "diagnosisTable" : [ 
+        ["<img src='assets/img/xs/avatar3.jpg' class='avatar sm rounded-circle me-2' alt='profile-image'><span>John</span>",
+            "Feb 13, 2022",
+            "2ND DEGREE SCALD BURN ON THE RIGHT FOOT ANKLE SINCE 4/1/2021 CLEAN AND MOIST HEALING WELL",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site.",
+            "ICD10:Z48.00 Encounter for change or removal of nonsurg wound dressing",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site. secured dressing with gauze and crepe bandage advised keeping the site clean and dry paulo."
+        ], [   
+            "<img src='assets/img/xs/avatar2.jpg' class='avatar sm rounded-circle me-2' alt='profile-image'><span>Nino</span>",
+            "Feb 13, 2022",
+            "3ND DEGREE SCALD BURN ON THE RIGHT FOOT ANKLE SINCE 4/1/2021 CLEAN AND MOIST HEALING WELL",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site.",
+            "ICD10:Z48.00 Encounter for change or removal of nonsurg wound dressing",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site. secured dressing with gauze and crepe bandage advised keeping the site clean and dry paulo."
+        ], [  
+            "<img src='assets/img/xs/avatar2.jpg' class='avatar sm rounded-circle me-2' alt='profile-image'><span>Nino</span>",
+            "Feb 13, 2022",
+            "3ND DEGREE SCALD BURN ON THE RIGHT FOOT ANKLE SINCE 4/1/2021 CLEAN AND MOIST HEALING WELL",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site.",
+            "ICD10:Z48.00 Encounter for change or removal of nonsurg wound dressing",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site. secured dressing with gauze and crepe bandage advised keeping the site clean and dry paulo."
+        ], [   
+            "<img src='assets/img/xs/avatar2.jpg' class='avatar sm rounded-circle me-2' alt='profile-image'><span>Nino</span>",
+            "Feb 13, 2022",
+            "3ND DEGREE SCALD BURN ON THE RIGHT FOOT ANKLE SINCE 4/1/2021 CLEAN AND MOIST HEALING WELL",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site.",
+            "ICD10:Z48.00 Encounter for change or removal of nonsurg wound dressing",
+            "Cleansed wound bed with 0.9% Sodium chloride isotonic solution and 5% povidone-iodine topical solution. applied MEBO + FLAMAZINE & JELONET at the wound site. secured dressing with gauze and crepe bandage advised keeping the site clean and dry paulo."
+        ]
+    ],
+
+    "animation"             :
+    {
+        "id"                : "1",
+        "title"             : "Boba Fett Speaks",
+        "sharecount"        : "0",
+        "dateCreated"       : "2011-12-02T19:44:16.866Z",
+        "dateUpdated"       : "2011-12-02T19:45:00.858Z",
+        "dateDeleted"       : "2011-12-03T19:45:14.086Z",
+        "image"             : "/images/robeberhardt-0137102.jpg",
+        "audio"             : "/audio/robeberhardt-1013823.wav",
+        "mouth"             : 
+        {
+            "asset"         : "2",
+            "posX"          : "252",
+            "posY"          : "102",
+            "scale"         : "0.7",
+            "rotation"      : "-34.2"
+        }
+    }
+}
